@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Tailwind CSS's `@apply` directive when applied to classes containing pseudo-selectors, specifically `&:hover`. The `bug.css` file showcases the problematic code, where hover styles are not correctly applied. The solution, provided in `bugSolution.css`, offers a workaround using standard CSS.
